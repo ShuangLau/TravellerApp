@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="255dp"
+    android:orientation="vertical">
+
+        
+       <ImageView
+        android:id="@+id/scenImage"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/a01"
+        android:gravity="center"/>
+
+       <TextView
+           android:id="@+id/comment"
+           android:layout_width="fill_parent"
+           android:layout_height="45dp"
+           android:textSize="17sp"
+           android:gravity="top"
+           android:text="comment" 
+           android:maxLines="2"/>
+
+    
+
+
+</LinearLayout>

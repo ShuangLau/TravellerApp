@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="mapstyle">
+        <item>定位</item>
+        <item>附近的人</item>
+        <item>导航</item>
+    </string-array>
+</resources>
